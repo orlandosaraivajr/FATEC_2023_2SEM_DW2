@@ -4,6 +4,9 @@ Variáveis
 */
 
 $variavel_1 = 'texto';
+echo $variavel_1;
+echo "<br>";
+echo gettype($variavel_1);
 // Imprimir o valor a variável e o seu tipo
 
 $variavel_2 = 123;
